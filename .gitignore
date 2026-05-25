@@ -4,3 +4,4 @@ fast-api/demo-app/app/__pycache__/
 fast-api/demo-app/app/schemas/__pycache__/
 fast-api/demo-app/tests/__pycache__/
 grade-tracker/__pycache__/
+*.pyc
